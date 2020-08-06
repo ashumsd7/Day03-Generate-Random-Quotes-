@@ -1,0 +1,36 @@
+body{
+    background: rgb(246, 248, 123);
+    margin: 0;
+    padding: 0;
+}
+.change-controls{
+    margin: 20px;
+    padding: 10px;
+    
+}
+button{
+    font-size: 32px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.quote-container{
+    height: auto;
+    background: rgb(228, 228, 228);
+    margin-top: 10%;
+    margin: 20px;
+    border-radius: 20px;
+}
+.quote-line{
+    font-size: 32px;
+    font-family: 'Chilanka', cursive;
+    padding: 10px;
+}
+.quote-author{
+    font-size: 24px;
+    float: right;
+font-style: bold;
+font-family: 'Lobster', cursive;
+}
+.header{
+    margin: 50px;
+}
